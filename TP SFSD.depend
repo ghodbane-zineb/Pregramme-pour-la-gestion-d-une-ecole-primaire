@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1672650315 source:c:\users\lenovo thinkpad\desktop\nouveau dossier\tp sfsd\main.c
+	"TOVC_headers.h"
+
+1672650646 source:c:\users\lenovo thinkpad\desktop\nouveau dossier\tp sfsd\tovc.c
+	"TOVC_headers.h"
+
+1672648209 c:\users\lenovo thinkpad\desktop\nouveau dossier\tp sfsd\tovc_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdint.h>
+	<time.h>
+	<stdbool.h>
+
+1672612379 source:c:\users\hp\downloads\ghodbane_laouzai\main.c
+	"TOVC_headers.h"
+
+1672612363 c:\users\hp\downloads\ghodbane_laouzai\tovc_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdint.h>
+	<time.h>
+	<stdbool.h>
+
+1672612982 source:c:\users\hp\downloads\ghodbane_laouzai\tovc.c
+	"TOVC_headers.h"
+
+1672612982 source:c:\users\hp\desktop\tp_sfsd_\ghodbane_laouzai\tovc.c
+	"TOVC_headers.h"
+
+1672612363 c:\users\hp\desktop\tp_sfsd_\ghodbane_laouzai\tovc_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdint.h>
+	<time.h>
+	<stdbool.h>
+
+1672700588 source:c:\users\hp\desktop\tp_sfsd_\ghodbane_laouzai\main.c
+	"TOVC_headers.h"
+
+1672700588 source:c:\users\hp\desktop\2cp\s3\tp_sfsd_\ghodbane_laouzai\main.c
+	"TOVC_headers.h"
+
+1672612363 c:\users\hp\desktop\2cp\s3\tp_sfsd_\ghodbane_laouzai\tovc_headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdint.h>
+	<time.h>
+	<stdbool.h>
+
+1672612982 source:c:\users\hp\desktop\2cp\s3\tp_sfsd_\ghodbane_laouzai\tovc.c
+	"TOVC_headers.h"
+
